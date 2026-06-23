@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to eazybytes account related PROD APIs"
+  contactDetails:
+    name: "PRABHU - PRODUCTION lead"
+    email: "prabhu@eazybytes.com"
+  onCallSupport:
+    -(453) 265-3765
+    -(236) 734-8371
