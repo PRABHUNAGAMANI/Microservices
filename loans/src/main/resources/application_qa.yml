@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to eazybytes loans related QA APIs"
+  contactDetails:
+    name: "ANBU - QA lead"
+    email: "anbu@eazybytes.com"
+  onCallSupport:
+    - "(666) 265-3765"
+    - "(666) 734-8371"
